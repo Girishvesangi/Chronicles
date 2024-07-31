@@ -1,0 +1,6 @@
+name = "testinghono-again"
+compatibility_date = "2024-07-17"
+
+ [vars]
+ DATABASE_URL="prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiMWZjNjEzYjUtYzU5YS00NjZhLWJjYjAtZDc5NmUyOThlOTBiIiwidGVuYW50X2lkIjoiZWE3MmI3Zjc1YzQwMjE4Y2FmNzExYWM2MjJmODFhZDQ5MjIwZDhlZjE0NzkyMTk1ZDUyNzU0YWZjOTI3N2Y1NyIsImludGVybmFsX3NlY3JldCI6IjM0MWJjMGY5LTQ1ZTQtNGJlNy1hMTJjLWVkYjI4MDFmMDEzMyJ9.8M1VnSVD2_PfavBbh4rdp2T-7USAybjbfWQTyk-Lpz8"
+ JWT_SECRET="Secret"
