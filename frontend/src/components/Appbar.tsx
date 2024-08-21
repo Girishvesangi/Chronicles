@@ -6,7 +6,7 @@ export const Appbar=()=>{
    
     return <div className="border-b px-10 py-2 flex justify-between">
        <Link to={'/Blogs'} className="text-2xl font-bold pt-1">
-       medium
+       Chronicles
        </Link>
         
      
